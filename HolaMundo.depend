@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1619739899 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1619739899 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\ciudad.h
+
+1620253675 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1620251924 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\pais.h
+
+1620254969 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+	<clocale>
+	"funciones.h"
+	<cstdio>
+
+1620254969 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\funciones.cpp
+	<iostream>
+	<clocale>
+	"Pais.h"
+	"Ciudad.h"
+	<cstdio>
+	<cstring>
+
+1620254969 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\laboratorio2-main\archivos\parte 1\holamundo\funciones.h
+	"Pais.h"
+	"Ciudad.h"
+
